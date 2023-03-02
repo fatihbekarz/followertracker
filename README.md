@@ -1,2 +1,2 @@
 # followertracker
-It is a small software that notifies the unfollowers via telegram message.
+It's still under development. It doesn't even have a loop it works one time. I will write about installation and usage soon.
